@@ -6,4 +6,4 @@ I build graphics engines, developer tools and the apps around them.
 - **Computer vision and ML:** a dataset labeling app and a comic text-masking and localization pipeline ([cv-label](https://github.com/TareHimself/cv-label), [comic-localizer](https://github.com/TareHimself/comic-localizer))
 - **Full stack and tooling:** Electron, React and TypeScript apps, a self-hosted docs store that people and AI agents edit together ([relay](https://github.com/TareHimself/relay)), and Discord bots
 
-**Stack:** C#, C++, TypeScript, Python, Vulkan, Slang, Roslyn, Unreal Engine 5
+**Stack:** C#, C++, TypeScript, Python, Vulkan, Slang, Roslyn
